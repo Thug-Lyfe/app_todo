@@ -1,0 +1,8 @@
+{
+  "name": "checklist_app2",
+  "app_id": "124f0feb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
